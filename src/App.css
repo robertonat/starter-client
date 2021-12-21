@@ -1,0 +1,13 @@
+.App {
+  background-color: #ffee8c;
+  min-height: 100vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h1{
+  margin: 0;
+    display: inline-block;
+}
